@@ -49,6 +49,10 @@ a:focus {
   text-decoration: none;
   color: #0000CD;
 }
+.container-fluid{
+  margin: 0 auto;
+  width: 100%;
+}
 .light {
   font-weight: 400;
 }
